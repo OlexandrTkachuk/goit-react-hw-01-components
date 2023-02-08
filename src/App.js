@@ -17,9 +17,9 @@ export default function App() {
           likes={user.stats.likes}
         />
       </Section>
+      {/* <Section></Section>
       <Section></Section>
-      <Section></Section>
-      <Section></Section>
+      <Section></Section> */}
     </div>
   );
 }
